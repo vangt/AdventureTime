@@ -1,1 +1,6 @@
 C:\Users\Tim Vang\Desktop\DCC\Visual Studio\AdventureTime\AdventureTime\bin\Debug\AdventureTime.exe.config
+C:\Users\Tim Vang\Desktop\DCC\Visual Studio\AdventureTime\AdventureTime\obj\Debug\AdventureTime.csprojResolveAssemblyReference.cache
+C:\Users\Tim Vang\Desktop\DCC\Visual Studio\AdventureTime\AdventureTime\bin\Debug\AdventureTime.exe
+C:\Users\Tim Vang\Desktop\DCC\Visual Studio\AdventureTime\AdventureTime\bin\Debug\AdventureTime.pdb
+C:\Users\Tim Vang\Desktop\DCC\Visual Studio\AdventureTime\AdventureTime\obj\Debug\AdventureTime.exe
+C:\Users\Tim Vang\Desktop\DCC\Visual Studio\AdventureTime\AdventureTime\obj\Debug\AdventureTime.pdb
